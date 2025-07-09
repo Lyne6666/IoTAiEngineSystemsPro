@@ -1,2 +1,1 @@
-# IoTAiEngineSystemsPro
-Advanced IoTAiEngineSystemsPro project
+.
